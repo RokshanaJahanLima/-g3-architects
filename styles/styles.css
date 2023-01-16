@@ -1,0 +1,824 @@
+.top{
+    display: flex;
+    /* Rectangle 2 */
+
+
+position: absolute;
+width: 1403.333333333px;
+height: 1050px;
+left: 0px;
+top: 0px;
+
+background: rgba(255, 144, 14, 0.1);
+}
+.topic{
+/* G3 Architects */
+
+
+position: absolute;
+width: 300px;
+height: 53px;
+left: 100px;
+top: 10px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 53px;
+/* identical to box height */
+
+text-align: center;
+
+/* Dark 01 */
+
+color: #131313;
+}
+.navigetion{
+    overflow: hidden;
+  gap: 30px;
+    /* Home About Contact Us Login */
+
+
+position: absolute;
+width: 300px;
+height: 26px;
+left: 1000px;
+top: 43px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 26px;
+
+/* identical to box height, or 144% */
+
+text-align: center;
+
+/* Dark 02 */
+
+color: #0f0d0d;
+
+}
+.main{/* Brand New Group of Architects */
+
+
+    position: absolute;
+    width: 500px;
+    height: 225px;
+    top: 150px;
+    left: 450px;
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 34px;
+line-height: 75px;
+text-align: center;
+
+/* Dark 01 */
+
+color: #131313;
+
+}
+.img{
+    position: relative;
+    width: 700px;
+    left: 260px;
+    top: 550px;
+    padding: 100px;
+}
+.pera{
+    /* There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even */
+
+
+position: absolute;
+width: 500px;
+height: 52px;
+
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+text-align: center;
+}
+.btn{
+    /* Group 2 */
+
+
+position: absolute;
+width: 180px;
+height: 64px;
+left: 160px;
+top: 370px;
+border-radius: 20px;
+background-color: coral;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 26px;
+color: #ffff
+}
+.img2{/* Rectangle 14 */
+
+
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 101px;
+    top: 1077px;
+    
+    background: url(aaa.jpg);
+    border-radius: 8px;
+
+}
+.img3{/* Rectangle 15 */
+
+
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 320px;
+    top: 1077px;
+    
+    background: url(business-people-with-arms-crossed.jpg);
+    border-radius: 8px;
+
+}
+.img4{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 101px;
+    top: 1300px;
+    
+    background: url(male-female-office-workers.jpg);
+    border-radius: 8px;
+
+}
+.img5{/* Rectangle 17 */
+
+
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 320px;
+    top: 1300px;
+    
+    background: url(pregnant-woman-having-meeting-with-her-coworker.jpg);
+    border-radius: 8px;
+
+}
+.write1{
+    position: absolute;
+width: 468px;
+height: 106px;
+left: 720px;
+top: 1100px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 45px;
+line-height: 53px;
+
+/* Dark 03 */
+
+color: #727272;
+
+}
+.write2{
+    position: absolute;
+width: 150px;
+height: 106px;
+left: 950px;
+top: 1110px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 53px;
+
+/* Dark 01 */
+
+color: #131313;
+
+}
+.write3{
+    position: absolute;
+width: 468px;
+height: 106px;
+left: 723px;
+top: 1170px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 53px;
+
+color: #FF900E;
+
+}
+.colam2{
+    position: absolute;
+width: 537px;
+height: 78px;
+left: 723px;
+top: 1270px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+
+/* Dark 03 */
+
+color: #727272;
+
+}
+.btn-2{
+    position: absolute;
+width: 180px;
+height: 64px;
+left: 723px;
+top: 1390px;
+border-radius: 20px;
+background-color: coral;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 26px;
+color: #ffff
+}
+.body-2{
+    position: absolute;
+width: 1050px;
+height: 800px;
+left: 176px;
+top: 1600px;
+border-radius: 10px;
+background-color: rgb(246, 237, 229);
+}
+.img6{
+    width: 40%;
+    height: 670px;
+    padding: 20px;
+}
+.colore{
+    /* Rectangle 18 */
+
+
+position: absolute;
+width: 5px;
+height: 106px;
+left: 237px;
+top: 2284px;
+
+background: #FF900E;
+}
+.topic-3{
+    /* Features you will love & enjoy */
+
+
+position: absolute;
+width: 468px;
+height: 106px;
+left: 540px;
+top: 20px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 53px;
+
+/* Dark 01 */
+
+color: #131313;
+}
+.dot{
+    /* Rectangle 18 */
+
+
+position: absolute;
+width: 5px;
+height: 106px;
+left: 500px;
+top: 38px;
+
+background: #FF900E;
+}
+.pera-2{/* There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even */
+
+
+    position: absolute;
+    width: 386px;
+    height: 78px;
+    left: 500px;
+    top: 200px;
+    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    
+    
+    /* Dark 03 */
+    
+    color: #727272;
+    }
+.div1{
+    color: #727272;
+}
+.sec-1{
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 486px;
+height: 161px;
+left: 500px;
+top: 350px;
+padding: 15px;
+background: #FFFFFF;
+box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.06);
+border-radius: 8px;
+}
+.title-2{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+}
+.pera-3{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    
+    
+    /* Dark 03 */
+    
+    color: #727272;
+    
+}
+.sec-2{
+    /* Rectangle 3 */
+
+
+position: absolute;
+width: 486px;
+height: 161px;
+left: 500px;
+top: 550px;
+padding: 15px;
+background: #FFFFFF;
+box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.06);
+border-radius: 8px;
+}
+.title-3{
+ 
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+}
+.pera-4{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    
+    
+    /* Dark 03 */
+    
+    color: #727272;
+    
+}
+.btn-3{
+    /* Rectangle 5 */
+
+
+position: absolute;
+width: 192px;
+height: 100px;
+left: 250px;
+top: 700px;
+border-color: #FF900E;
+background: #FF900E;
+border-radius: 8px;
+/* 10+Year Experience */
+
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+/* or 108% */
+
+text-align: center;
+
+color: #FFFFFF;
+
+}
+.title-4{
+    /* Some Facts */
+
+
+position: absolute;
+width: 265px;
+height: 53px;
+left: 220px;
+top: 2550px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 53px;
+/* identical to box height */
+
+
+/* Dark 01 */
+
+color: #131313;
+
+}
+.pera-5{/* There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration. */
+
+
+    position: absolute;
+    width: 542px;
+    height: 52px;
+    left: 220px;
+    top: 2620px;
+    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    
+    
+    /* Dark 03 */
+    
+    color: #727272;
+    }
+.box-1{
+        /* Rectangle 6 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 200px;
+height: 200px;
+left: 131.92px;
+top: 2863.08px;
+
+border: 1px solid #FF900E;
+border-radius: 8px;
+}
+
+.img-6{
+   position: absolute;
+left: 78px;
+top: 50px;
+right: 20px;
+bottom: 20px;
+}
+.topic-4{
+    /* 54 */
+
+
+position: absolute;
+left: 75px;
+top: 60px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 45px;
+line-height: 53px;
+/* identical to box height */
+
+
+/* Dark 02 */
+
+color: #424242;
+
+}
+.pera-6{
+    /* Awards Winnings */
+
+
+position: absolute;
+left: 18px;
+top: 140px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 23px;
+
+/* Dark 03 */
+
+color: #727272;
+}
+.box-2{
+    /* Rectangle 6 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 200px;
+height: 200px;
+left: 431.92px;
+top: 2863.08px;
+
+border: 1px solid #FF900E;
+border-radius: 8px;
+}
+.img-7{
+    position: absolute;
+left: 78px;
+top: 50px;
+right: 20px;
+bottom: 20px;
+}
+.topic-5{
+     /* 1458 */
+
+
+position: absolute;
+left: 48px;
+top: 60px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 45px;
+line-height: 53px;
+/* identical to box height */
+
+
+/* Dark 02 */
+
+color: #424242;
+}
+.pera-7{
+    /* Project Finished */
+
+
+position: absolute;
+left: 18px;
+top: 140px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 23px;
+
+/* Dark 03 */
+
+color: #727272;
+}
+.box-3{
+    /* Rectangle 6 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 200px;
+height: 200px;
+left: 731.92px;
+top: 2863.08px;
+
+border: 1px solid #FF900E;
+border-radius: 8px;
+}
+.img-8{
+    position: absolute;
+left: 78px;
+top: 50px;
+right: 20px;
+bottom: 20px;
+}
+.topic-6{
+    /* 1458 */
+
+
+position: absolute;
+left: 58px;
+top: 60px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 45px;
+line-height: 53px;
+/* identical to box height */
+
+
+/* Dark 02 */
+
+color: #424242;
+}
+.pera-8{
+    /* Clients Worked */
+
+
+position: absolute;
+left: 22px;
+top: 140px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 23px;
+
+/* Dark 03 */
+
+color: #727272;
+}
+.box-4{
+    /* Rectangle 6 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 200px;
+height: 200px;
+left: 1031.92px;
+top: 2863.08px;
+
+border: 1px solid #FF900E;
+border-radius: 8px;
+}
+.img-9{
+    position: absolute;
+    left: 78px;
+    top: 50px;
+    right: 20px;
+    bottom: 20px;
+}
+.topic-7{
+    /* 22578 */
+
+
+position: absolute;
+left: 34px;
+top: 60px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 45px;
+line-height: 53px;
+/* identical to box height */
+
+
+/* Dark 02 */
+
+color: #424242;
+}
+.pera-9{
+    /* Email Send */
+
+
+position: absolute;
+left: 45px;
+top: 140px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 23px;
+
+/* Dark 03 */
+
+color: #727272;
+}
+.title-5{
+    /* Our Sponspors */
+
+
+position: absolute;
+width: 327px;
+height: 53px;
+left: 538px;
+top: 3300px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 53px;
+/* identical to box height */
+
+
+/* Dark 01 */
+
+color: #131313;
+}
+.pera-10{
+    /* There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration. */
+
+
+position: absolute;
+width: 542px;
+height: 52px;
+left: 430px;
+top: 3400px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+text-align: center;
+
+/* Dark 03 */
+
+color: #727272;
+
+}
+.sponsor{
+    display: flex;
+    gap: 80px;
+    position: absolute;
+    
+    top: 3600px;
+    left: 170px;
+}
+.last{
+    /* Rectangle 11 */
+
+
+position: absolute;
+width: 1000px;
+height: 80px;
+left: 201.5px;
+top: 3800px;
+
+background: #FFF4E7;
+border-radius: 8px;
+}
+.pera-11{
+    /* All rights reserved copyright@2023 startup landing page design */
+
+
+position: absolute;
+top: 10px;
+left: 189.5px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+
+/* Dark 02 */
+
+color: #424242;
+
+}
+.nomore{
+    position: absolute;
+width: 1000px;
+height: 80px;
+left: 201.5px;
+top: 3900px;
+
+background: #FFFFFF;
+border-radius: 8px;
+}
